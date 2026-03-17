@@ -25,8 +25,6 @@ It provides REST APIs for managing jobs, job applications, and employer dashboar
 
 The Angular frontend communicates with this backend through REST APIs.
 
-Frontend Repository:
-https://github.com/your-username/job-portal-frontend
 
 ## API Endpoints (Examples)
 
@@ -38,9 +36,6 @@ GET /applications/{jobId}
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/job-portal-backend.git
 
 Navigate to the project folder:
 
