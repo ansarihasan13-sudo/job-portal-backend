@@ -77,10 +77,6 @@ public class JobService {
     }
 
 
-
-
-
-
     public Page<Job> getEmployerJobs(String employerEmail, Pageable pageable) {
 
         User employer = userRepository.findByEmail(employerEmail)
